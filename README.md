@@ -14,7 +14,7 @@ Below are some of my key projects. Each project includes detailed documentation,
    - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
    - **Use Case:** Renewable energy planning and meteorological data analysis
 
-2. **[Insurance Data Analysis](https://github.com/mareye132/InsuranceAnalysis)**  
+2. **[Insurance Data Analysis](https://github.com/mareye132/Insurance_solution.git)**  
    - **Description:** Data analysis on insurance claim patterns, with focus on risk assessment and claim frequency prediction.
    - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
    - **Use Case:** Predictive analytics for insurance claim management and pricing strategy
