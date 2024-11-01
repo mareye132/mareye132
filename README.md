@@ -19,38 +19,38 @@ Below are some of my key projects. Each project includes detailed documentation,
    - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
    - **Use Case:** Predictive analytics for insurance claim management and pricing strategy
 
-3. **[Telecom User Analysis](https://github.com/mareye132/TelecoUserAnalysis)**  
+3. **[Telecom User Analysis](https://github.com/mareye132/Telecom_User_Analysis.git)**  
    - **Description:** Customer analysis to understand churn rates, usage behavior, and segmentation.
    - **Tech Stack:** Python, Pandas, Scikit-learn
    - **Use Case:** Telecom customer retention and segmentation strategy
 
-4. **[Bank Loan Scoring](https://github.com/mareye132/BankScoring)**  
+4. **[Bank Loan Scoring](https://github.com/mareye132/BatiBank_CreditScoring.git)**  
    - **Description:** Credit scoring model for banks to assess loan eligibility.
    - **Tech Stack:** Python, Scikit-learn, XGBoost
    - **Use Case:** Credit risk management and loan approval process
 
-5. **[Fraud Detection in Financial Transactions](https://github.com/mareye132/FraudDetection)**  
+5. **[Fraud Detection in Financial Transactions](https://github.com/mareye132/Adey_FraudDetection.git)**  
    - **Description:** Machine learning model to detect fraud in financial transactions.
    - **Tech Stack:** Python, Scikit-learn, TensorFlow, Keras
    - **Use Case:** Fraud prevention and anomaly detection in banking
 
-6. **[Oil Price Analysis](https://github.com/mareye132/OilPriceAnalysis)**  
+6. **[Oil Price Analysis](https://github.com/mareye132/Oilprice_analysis.git)**  
    - **Description:** Time series analysis and forecasting of oil prices.
    - **Tech Stack:** Python, Pandas, StatsModels
    - **Use Case:** Oil market analysis and economic forecasting
 
-7. **[Nova Financial Solution](https://github.com/mareye132/NovaFinancialSolution)**  
+7. **[Nova Financial Solution](https://github.com/mareye132/NovaFinancialSolutions-.git)**  
    - **Description:** Financial modeling and risk assessment for investment solutions.
    - **Tech Stack:** Python, Pandas, NumPy
    - **Use Case:** Investment strategy development and risk management
 
-8. **[Rossmann Pharmaceutical Analysis](https://github.com/mareye132/RossmanPharmaAnalysis)**  
+8. **[Rossmann Pharmaceutical Analysis](https://github.com/mareye132/Rossmann_Pharmaceuticals.git)**  
    - **Description:** Sales prediction and analysis for a pharmaceutical retailer.
    - **Tech Stack:** Python, Scikit-learn, XGBoost
    - **Use Case:** Retail sales forecasting and inventory management
 
 #### 🏥 Data Warehousing
-1. **[Ethio Medical Data Warehouse](https://github.com/mareye132/EthioMedicalDataWarehouse)**  
+1. **[Ethio Medical Data Warehouse](https://github.com/mareye132/Data_Warehouse_ForEthioMedical.git)**  
    - **Description:** Data warehouse design and implementation for healthcare data in Ethiopia.
    - **Tech Stack:** SQL, Power BI, Python
    - **Use Case:** Scalable data storage, reporting, and analytics for healthcare institutions
