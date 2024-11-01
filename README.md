@@ -61,6 +61,8 @@ Below are some of my key projects. Each project includes detailed documentation,
 
 ![Mareye’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mareye132&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mareye132&layout=compact&theme=radical)
+
 ---
 
 ### 📫 Contact
