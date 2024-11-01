@@ -63,6 +63,8 @@ Below are some of my key projects. Each project includes detailed documentation,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mareye132&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=mareye132&theme=radical)
+
 ---
 
 ### 📫 Contact
