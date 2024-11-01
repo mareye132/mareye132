@@ -65,5 +65,5 @@ Below are some of my key projects. Each project includes detailed documentation,
 
 ### 📫 Contact
 
-- **LinkedIn:** [Mareye Zeleke](https://www.linkedin.com/in/mareye-zeleke-914249287)
+- **LinkedIn:** [Mareye Zeleke](https://www.linkedin.com/in/mareye-zeleke-mekonen-246a6218a)
 - **Email:** [mareye132@gmail.com](mailto:mareye132@gmail.com)
